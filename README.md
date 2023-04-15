@@ -1,31 +1,29 @@
-# SkyNet
-Home Network
-##Scope of Work
+# SkyNet Home Network
 
-# Research and Prototype
+# Scope of Work
 - Diagram a network model 
   - Subnet masking
   - VLAN
 - Define Project Requirements
   - Hardware Inventory
-   - Cat 6 cables
-   - Switch
-   - Adapters 
-   - Network/Security Server
-   - Ace Magician - Mini PC
-    - 12GB RAM
-    - 256GB SSD
-    - Intel Celeron 4-core
-   - Main Server
-    - Asus MOBO ATX size
-    - Up to 100GB RAM
-    - SSD
-    - Processor 
+    - Cat 6 cables
+    - Switch
+    - Adapters 
+    - Network/Security Server
+    - Ace Magician - Mini PC
+      - 12GB RAM
+      - 256GB SSD
+      - Intel Celeron 4-core
+    - Main Server
+      - Asus MOBO ATX size
+      - Up to 100GB RAM
+      - SSD
+      - Processor 
   - Software and Tools
-   - PFsense
-   - Proxmox
-   - VPN
-   - Bash/ZSH
+    - PFsense
+    - Proxmox
+    - VPN
+    - Bash/ZSH
 - Connect network server, wifi router, and switch at the physical/link layer.
 - Configure DHCP, DNS, VPN, Firewall, and Hypervisor server.
 - Finish building out an application server based on motherboard. 
