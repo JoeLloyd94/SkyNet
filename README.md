@@ -1,7 +1,6 @@
 # SkyNet
 Home Network
-
-#SOW
+Scope of Work
 
 # Research and Prototype
 1. Diagram a network model 
